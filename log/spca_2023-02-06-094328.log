@@ -1,0 +1,745 @@
+
+   --------- #1/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.712651e+02
+iter:2212, f:-2.153877e+03, optnorm:4.489476e-08,totalbt:31, CPU:42.75
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 116     -2.15556e+03    45.51     0.7412          3.4015e-09  31688 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 49     -2.15401e+03    26.03     0.7394            1.674e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 49     -2.15401e+03    27.79     0.7394            1.192e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.15364e+03    542.53     0.74            7.668e-06 
+iter:0, f:7.712651e+02
+iter:2044, fx:-2.154302e+03, optnorm:8.852769e-06, totalbt:17, totalinneriter:469, CPU:78.68
+
+   --------- #2/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.765119e+02
+iter:1761, f:-2.163580e+03, optnorm:4.943319e-08,totalbt:15, CPU:35.47
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 43     -2.16652e+03    17.49     0.7716          3.2477e-10  12562 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 55     -2.16256e+03    26.41     0.7718            1.443e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 41     -2.16256e+03    19.40     0.7718            1.206e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.15709e+03    537.18     0.77            8.344e-07 
+iter:0, f:7.765119e+02
+iter:30001, fx:-2.163625e+03, optnorm:9.390112e-08, totalbt:10, totalinneriter:489, CPU:191.87
+
+   --------- #3/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.764136e+02
+iter:2296, f:-2.132343e+03, optnorm:4.999728e-08,totalbt:172, CPU:38.20
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 178     -2.13968e+03    65.88     0.6943          4.8224e-09  49328 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 39     -2.13860e+03    23.14     0.6947            1.636e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 48     -2.13860e+03    27.56     0.6947            2.386e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.13251e+03    535.40     0.70            4.081e-05 
+iter:0, f:7.764136e+02
+iter:1256, fx:-2.138313e+03, optnorm:3.713480e-06, totalbt:15, totalinneriter:521, CPU:103.88
+
+   --------- #4/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.772659e+02
+iter:1306, f:-2.114136e+03, optnorm:4.989569e-08,totalbt:74, CPU:28.59
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 70     -2.11572e+03    29.04     0.6972          3.3012e-08  23866 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 69     -2.11355e+03    46.35     0.7000            1.939e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 49     -2.11355e+03    31.93     0.7000            1.860e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.11309e+03    534.00     0.70            3.137e-07 
+iter:0, f:7.772659e+02
+iter:916, fx:-2.114136e+03, optnorm:6.186068e-06, totalbt:15, totalinneriter:325, CPU:86.32
+
+   --------- #5/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.785738e+02
+iter:4136, f:-2.068526e+03, optnorm:4.988964e-08,totalbt:255, CPU:49.91
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 178     -2.06964e+03    72.07     0.7025          6.8552e-09  49114 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 83     -2.06882e+03    45.78     0.7023            1.539e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 84     -2.06882e+03    55.72     0.7023            2.529e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.06698e+03    536.58     0.70            1.315e-05 
+iter:0, f:7.785738e+02
+iter:1874, fx:-2.068724e+03, optnorm:3.862855e-06, totalbt:18, totalinneriter:363, CPU:91.40
+
+   --------- #6/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.807764e+02
+iter:896, f:-2.101732e+03, optnorm:4.927308e-08,totalbt:57, CPU:22.65
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 87     -2.10578e+03    33.81     0.7647          5.0442e-10  23499 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 50     -2.10091e+03    27.38     0.7653            2.265e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 54     -2.10091e+03    27.96     0.7653            2.308e-08    
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 27966     -2.10190e+03    509.08     0.77            5.297e-11 
+iter:0, f:7.807764e+02
+iter:682, fx:-2.101385e+03, optnorm:5.196669e-06, totalbt:15, totalinneriter:287, CPU:112.68
+
+   --------- #7/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.740917e+02
+iter:1696, f:-2.110811e+03, optnorm:4.490704e-08,totalbt:22, CPU:42.23
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 62     -2.11142e+03    26.05     0.6729          5.2077e-09  20061 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 46     -2.11074e+03    31.33     0.6722            1.713e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 45     -2.11074e+03    26.47     0.6722            2.435e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.11011e+03    545.80     0.67            6.133e-06 
+iter:0, f:7.740917e+02
+iter:1021, fx:-2.110553e+03, optnorm:3.965084e-06, totalbt:15, totalinneriter:546, CPU:69.87
+
+   --------- #8/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.798694e+02
+iter:2412, f:-2.041288e+03, optnorm:4.915810e-08,totalbt:72, CPU:35.41
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 215     -2.04236e+03    89.33     0.6368          1.8029e-08  65744 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 148     -2.04173e+03    144.07     0.6374            1.465e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 147     -2.04173e+03    137.71     0.6374            1.226e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.04012e+03    535.63     0.63            4.763e-06 
+iter:0, f:7.798694e+02
+iter:1726, fx:-2.041385e+03, optnorm:8.754897e-06, totalbt:16, totalinneriter:527, CPU:40.80
+
+   --------- #9/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.781815e+02
+iter:2381, f:-1.908352e+03, optnorm:4.942372e-08,totalbt:49, CPU:28.20
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 139     -1.91005e+03    56.96     0.5233          4.2421e-08  46247 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 134     -1.90816e+03    148.68     0.5164            1.332e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 92     -1.90816e+03    82.01     0.5164            5.185e-09    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -1.90925e+03    536.25     0.52            1.573e-05 
+iter:0, f:7.781815e+02
+iter:1316, fx:-1.911145e+03, optnorm:1.066441e-06, totalbt:21, totalinneriter:614, CPU:41.85
+
+   --------- #10/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.754788e+02
+iter:1801, f:-1.982543e+03, optnorm:4.426806e-08,totalbt:55, CPU:28.06
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 74     -1.98114e+03    27.37     0.5465          1.1096e-08  20536 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 56     -1.98214e+03    37.53     0.5470            1.621e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 51     -1.98214e+03    41.29     0.5470            1.764e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -1.98159e+03    534.04     0.55            1.283e-06 
+iter:0, f:7.754788e+02
+iter:1012, fx:-1.982078e+03, optnorm:5.870956e-06, totalbt:15, totalinneriter:473, CPU:55.45
+
+   --------- #11/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.698954e+02
+iter:1126, f:-2.179324e+03, optnorm:4.841412e-08,totalbt:43, CPU:26.76
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 46     -2.18086e+03    16.77     0.7506          4.8271e-09  12001 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 67     -2.17869e+03    39.95     0.7503            2.015e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 46     -2.17869e+03    28.53     0.7503            5.788e-09    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.17909e+03    539.54     0.75            3.015e-06 
+iter:0, f:7.698954e+02
+iter:1041, fx:-2.179140e+03, optnorm:3.262876e-06, totalbt:15, totalinneriter:328, CPU:110.05
+
+   --------- #12/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.766085e+02
+iter:5461, f:-1.879195e+03, optnorm:4.792271e-08,totalbt:28, CPU:41.90
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 121     -1.87985e+03    47.15     0.4870          3.3673e-08  35937 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 66     -1.88036e+03    44.97     0.4948            6.300e-09    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 133     -1.88036e+03    116.47     0.4948            8.912e-11    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -1.87991e+03    538.02     0.49            1.621e-05 
+iter:0, f:7.766085e+02
+iter:1157, fx:-1.879207e+03, optnorm:1.369264e-05, totalbt:15, totalinneriter:440, CPU:33.53
+
+   --------- #13/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.802907e+02
+iter:2862, f:-2.072959e+03, optnorm:4.598790e-08,totalbt:34, CPU:45.09
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 66     -2.07426e+03    27.85     0.6646          2.8260e-08  22702 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 31     -2.07250e+03    23.43     0.6626            2.584e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 35     -2.07250e+03    24.77     0.6626            2.521e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.07131e+03    536.66     0.67            1.735e-05 
+iter:0, f:7.802907e+02
+iter:2528, fx:-2.072957e+03, optnorm:6.284544e-06, totalbt:17, totalinneriter:537, CPU:62.27
+
+   --------- #14/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.825648e+02
+iter:1296, f:-2.094666e+03, optnorm:4.923147e-08,totalbt:15, CPU:28.64
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 72     -2.09626e+03    28.94     0.6674          1.5105e-08  20562 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 57     -2.09458e+03    34.00     0.6666            1.933e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 46     -2.09458e+03    29.44     0.6666            3.182e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.08250e+03    536.52     0.67            6.066e-06 
+iter:0, f:7.825648e+02
+iter:866, fx:-2.094595e+03, optnorm:4.926588e-06, totalbt:16, totalinneriter:435, CPU:109.70
+
+   --------- #15/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.752133e+02
+iter:2711, f:-2.183735e+03, optnorm:4.796913e-08,totalbt:32, CPU:38.03
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 71     -2.18496e+03    26.38     0.8007          2.2651e-08  18359 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 75     -2.18448e+03    43.34     0.8004            1.249e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 76     -2.18448e+03    42.40     0.8004            9.754e-09    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.18336e+03    537.04     0.80            2.583e-06 
+iter:0, f:7.752133e+02
+iter:1026, fx:-2.183528e+03, optnorm:3.999931e-05, totalbt:18, totalinneriter:400, CPU:95.00
+
+   --------- #16/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.745506e+02
+iter:2606, f:-2.127588e+03, optnorm:4.982319e-08,totalbt:144, CPU:47.27
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 78     -2.12869e+03    33.44     0.7234          9.9809e-09  25187 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 44     -2.12768e+03    28.70     0.7234            2.424e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 39     -2.12768e+03    23.75     0.7234            3.008e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.12592e+03    545.10     0.72            1.713e-05 
+iter:0, f:7.745506e+02
+iter:1654, fx:-2.127412e+03, optnorm:1.490706e-05, totalbt:17, totalinneriter:407, CPU:76.04
+
+   --------- #17/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.763862e+02
+iter:1871, f:-1.974346e+03, optnorm:4.729227e-08,totalbt:32, CPU:32.86
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 101     -1.97402e+03    42.22     0.5667          2.2635e-08  34247 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 84     -1.97365e+03    58.05     0.5637            1.287e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 43     -1.97365e+03    25.92     0.5637            3.361e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -1.97300e+03    536.04     0.56            1.900e-05 
+iter:0, f:7.763862e+02
+iter:1768, fx:-1.974529e+03, optnorm:6.123935e-06, totalbt:19, totalinneriter:588, CPU:63.57
+
+   --------- #18/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.719017e+02
+iter:1591, f:-2.146240e+03, optnorm:4.476716e-08,totalbt:25, CPU:40.66
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 36     -2.14761e+03    16.80     0.7472          8.7333e-09  13231 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 38     -2.14595e+03    25.35     0.7468            1.631e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 42     -2.14595e+03    28.52     0.7468            1.426e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.14564e+03    533.43     0.75            4.714e-06 
+iter:0, f:7.719017e+02
+iter:1196, fx:-2.146241e+03, optnorm:8.450956e-06, totalbt:16, totalinneriter:413, CPU:73.16
+
+   --------- #19/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.837154e+02
+iter:2091, f:-2.044933e+03, optnorm:4.882925e-08,totalbt:29, CPU:31.31
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 101     -2.04549e+03    40.19     0.5810          4.0518e-08  31921 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 131     -2.04525e+03    141.44     0.5794            2.462e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 32     -2.04525e+03    18.77     0.5794            2.252e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.04546e+03    534.50     0.58            8.612e-06 
+iter:0, f:7.837154e+02
+iter:1142, fx:-2.044696e+03, optnorm:3.863337e-06, totalbt:14, totalinneriter:426, CPU:89.33
+
+   --------- #20/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.805879e+02
+iter:2191, f:-2.166560e+03, optnorm:4.944307e-08,totalbt:28, CPU:42.69
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 40     -2.17373e+03    18.28     0.7418          1.8413e-09  15044 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 51     -2.17200e+03    31.57     0.7415            1.686e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 45     -2.17200e+03    32.49     0.7415            2.551e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.16684e+03    534.20     0.74            1.757e-05 
+iter:0, f:7.805879e+02
+iter:1177, fx:-2.166410e+03, optnorm:4.788853e-06, totalbt:15, totalinneriter:597, CPU:96.65
+
+   --------- #21/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.761906e+02
+
+   --------- #22/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.753434e+02
+iter:1361, f:-2.084312e+03, optnorm:4.691023e-08,totalbt:40, CPU:32.50
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 80     -2.09105e+03    30.68     0.6928          1.8061e-08  23518 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 50     -2.09055e+03    29.46     0.6928            1.517e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 50     -2.09055e+03    30.59     0.6928            2.506e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.07822e+03    533.21     0.70            1.152e-06 
+iter:0, f:7.753434e+02
+iter:1235, fx:-2.084738e+03, optnorm:3.345023e-06, totalbt:17, totalinneriter:431, CPU:95.83
+
+   --------- #23/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.799469e+02
+iter:1361, f:-2.137209e+03, optnorm:4.851627e-08,totalbt:31, CPU:42.66
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 77     -2.13887e+03    32.55     0.6697          8.9023e-09  25684 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 60     -2.13763e+03    39.53     0.6699            9.136e-09    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 44     -2.13763e+03    33.99     0.6699            1.568e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.13714e+03    535.70     0.67            7.739e-08 
+iter:0, f:7.799469e+02
+iter:985, fx:-2.137383e+03, optnorm:2.567954e-06, totalbt:17, totalinneriter:435, CPU:90.38
+
+   --------- #24/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.693494e+02
+iter:1826, f:-2.206644e+03, optnorm:4.977581e-08,totalbt:248, CPU:33.67
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 79     -2.21683e+03    37.94     0.8044          1.9654e-09  31924 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 114     -2.19663e+03    104.45     0.8050            1.382e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 77     -2.19663e+03    50.88     0.8050            1.218e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.20666e+03    535.51     0.80            6.755e-06 
+iter:0, f:7.693494e+02
+iter:941, fx:-2.206645e+03, optnorm:1.035807e-05, totalbt:16, totalinneriter:323, CPU:103.37
+
+   --------- #25/25, n = 2500, r = 20, mu = 1.00 ---------
+iter:0, f:7.789148e+02
+iter:1151, f:-2.022496e+03, optnorm:4.121974e-08,totalbt:25, CPU:32.76
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 301     -2.02303e+03    135.52     0.6176          6.9446e-07  111565 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 48     -2.02308e+03    31.87     0.6165            8.443e-09    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 54     -2.02308e+03    50.61     0.6165            1.782e-09    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.02263e+03    536.85     0.61            3.564e-05 
+iter:0, f:7.789148e+02
+iter:1244, fx:-2.022779e+03, optnorm:1.270288e-07, totalbt:25, totalinneriter:465, CPU:62.58
+=========== Summary: n = 2500, r = 20, mu = 1.000 ==========
+ALMTR:    time = 38.077s,  sparsity = 67.41,  loss = -2084.18
+LS-I:    time = 51.376s,  sparsity = 67.38,  loss = -2082.82
+LS-II:   time = 42.446s,  sparsity = 67.38,  loss = -2082.82
+SOC:   time = 535.876s,  sparsity = 67.43,  loss = -2080.97
+AManPG:   time = 36.335s,  sparsity = 67.43,  loss = -2082.34
+ARPG:   time = 84.105s,  sparsity = 67.47,  loss = -2082.72
+
+
+
+
+   --------- #1/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.586837e+02
+iter:1972, f:-2.482249e+03, optnorm:3.605219e-08,totalbt:20, CPU:43.52
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 67     -2.48137e+03    37.38     0.5905          1.4660e-09  23901 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 94     -2.48242e+03    79.35     0.5912            3.299e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 54     -2.48242e+03    39.36     0.5912            4.209e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.48127e+03    765.37     0.59            7.379e-06 
+iter:0, f:8.586837e+02
+iter:2192, fx:-2.482695e+03, optnorm:2.349418e-07, totalbt:19, totalinneriter:737, CPU:108.84
+
+   --------- #2/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.539043e+02
+iter:2346, f:-2.497939e+03, optnorm:4.790644e-08,totalbt:10, CPU:40.06
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 153     -2.49880e+03    84.39     0.6332          8.2226e-09  56350 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 118     -2.49783e+03    145.10     0.6325            2.076e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 118     -2.49783e+03    151.45     0.6325            2.614e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.49778e+03    772.02     0.63            1.930e-06 
+iter:0, f:8.539043e+02
+iter:2286, fx:-2.497884e+03, optnorm:3.026915e-06, totalbt:21, totalinneriter:386, CPU:88.72
+
+   --------- #3/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.551400e+02
+iter:1891, f:-2.500402e+03, optnorm:3.375508e-08,totalbt:45, CPU:33.06
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 68     -2.50129e+03    37.53     0.6156          2.0316e-09  23796 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 47     -2.49966e+03    33.57     0.6146            1.418e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 46     -2.49966e+03    37.88     0.6146            2.679e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.49969e+03    766.89     0.61            4.407e-06 
+iter:0, f:8.551400e+02
+iter:1120, fx:-2.500026e+03, optnorm:1.001621e-06, totalbt:16, totalinneriter:381, CPU:83.40
+
+   --------- #4/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.575770e+02
+iter:2106, f:-2.543965e+03, optnorm:4.747577e-08,totalbt:42, CPU:40.47
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 135     -2.54468e+03    71.23     0.6253          8.9297e-09  49366 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 86     -2.54432e+03    79.87     0.6242            1.275e-09    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 36     -2.54432e+03    26.85     0.6242            2.095e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.54392e+03    767.68     0.62            2.253e-05 
+iter:0, f:8.575770e+02
+iter:1526, fx:-2.544064e+03, optnorm:5.208851e-06, totalbt:15, totalinneriter:796, CPU:79.93
+
+   --------- #5/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.573918e+02
+iter:2736, f:-2.411264e+03, optnorm:4.972565e-08,totalbt:114, CPU:47.13
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 92     -2.41162e+03    52.53     0.6361          1.5982e-08  33074 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 129     -2.41023e+03    147.34     0.6365            1.911e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 78     -2.41023e+03    58.10     0.6365            1.515e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.41112e+03    760.02     0.63            1.351e-05 
+iter:0, f:8.573918e+02
+iter:1536, fx:-2.411263e+03, optnorm:8.835096e-06, totalbt:15, totalinneriter:512, CPU:72.39
+
+   --------- #6/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.518221e+02
+iter:1311, f:-2.694755e+03, optnorm:4.663745e-08,totalbt:24, CPU:32.27
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 31     -2.70203e+03    18.22     0.7301          8.8679e-10  12171 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 32     -2.70146e+03    20.38     0.7317            1.712e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 39     -2.70146e+03    36.83     0.7317            1.402e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.69479e+03    772.14     0.73            1.899e-08 
+iter:0, f:8.518221e+02
+iter:1140, fx:-2.694755e+03, optnorm:2.074304e-06, totalbt:18, totalinneriter:371, CPU:100.93
+
+   --------- #7/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.562728e+02
+iter:1501, f:-2.534191e+03, optnorm:4.886352e-08,totalbt:69, CPU:36.74
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 91     -2.53482e+03    49.23     0.6523          3.6699e-09  35996 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 44     -2.53354e+03    29.08     0.6501            2.226e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 48     -2.53354e+03    35.23     0.6501            2.151e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.53367e+03    763.43     0.65            3.137e-06 
+iter:0, f:8.562728e+02
+iter:1046, fx:-2.533507e+03, optnorm:1.069793e-06, totalbt:17, totalinneriter:415, CPU:82.44
+
+   --------- #8/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.472732e+02
+iter:3326, f:-2.595340e+03, optnorm:4.997006e-08,totalbt:583, CPU:50.14
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 171     -2.59676e+03    102.58     0.7013          2.9234e-09  64939 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 48     -2.59568e+03    33.04     0.6994            1.650e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 45     -2.59568e+03    34.84     0.6994            1.839e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.59538e+03    763.49     0.70            2.212e-07 
+iter:0, f:8.472732e+02
+iter:1217, fx:-2.595300e+03, optnorm:2.495629e-05, totalbt:14, totalinneriter:369, CPU:83.43
+
+   --------- #9/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.544713e+02
+iter:2026, f:-2.577345e+03, optnorm:4.290446e-08,totalbt:48, CPU:36.91
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 85     -2.57800e+03    49.57     0.6542          1.3076e-08  34173 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 64     -2.57731e+03    48.27     0.6539            1.102e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 51     -2.57731e+03    53.43     0.6539            2.161e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.57715e+03    770.66     0.65            4.128e-06 
+iter:0, f:8.544713e+02
+iter:998, fx:-2.577389e+03, optnorm:1.213858e-05, totalbt:14, totalinneriter:441, CPU:64.28
+
+   --------- #10/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.553172e+02
+iter:2281, f:-2.511627e+03, optnorm:4.639845e-08,totalbt:57, CPU:38.40
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 110     -2.51265e+03    70.18     0.6419          8.2620e-09  50922 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 78     -2.51210e+03    56.59     0.6417            1.428e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 66     -2.51210e+03    43.48     0.6417            8.494e-09    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.51066e+03    764.56     0.64            1.006e-05 
+iter:0, f:8.553172e+02
+iter:1854, fx:-2.511943e+03, optnorm:1.785477e-06, totalbt:27, totalinneriter:430, CPU:53.29
+
+   --------- #11/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.533618e+02
+iter:3136, f:-2.741489e+03, optnorm:4.989352e-08,totalbt:521, CPU:58.42
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 49     -2.75200e+03    26.21     0.8270          5.0254e-10  17694 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 44     -2.74855e+03    23.87     0.8270            1.261e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 46     -2.74855e+03    22.48     0.8270            1.415e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.73324e+03    771.01     0.83            7.015e-06 
+iter:0, f:8.533618e+02
+iter:1070, fx:-2.741639e+03, optnorm:3.650408e-06, totalbt:17, totalinneriter:434, CPU:106.05
+
+   --------- #12/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.525905e+02
+iter:2302, f:-2.329987e+03, optnorm:4.783772e-08,totalbt:34, CPU:26.53
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 109     -2.33100e+03    58.98     0.4990          2.1459e-08  40575 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 101     -2.33172e+03    83.31     0.5053            2.944e-09    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 57     -2.33172e+03    34.78     0.5053            2.196e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.32937e+03    769.03     0.50            9.291e-06 
+iter:0, f:8.525905e+02
+iter:1952, fx:-2.330201e+03, optnorm:1.734522e-05, totalbt:15, totalinneriter:584, CPU:51.65
+
+   --------- #13/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.546078e+02
+iter:2381, f:-2.514745e+03, optnorm:4.910977e-08,totalbt:46, CPU:41.94
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 142     -2.51684e+03    88.01     0.6624          1.8604e-08  68896 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 99     -2.50831e+03    90.96     0.6616            1.881e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 88     -2.50831e+03    105.01     0.6616            2.729e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.51425e+03    778.42     0.66            2.929e-05 
+iter:0, f:8.546078e+02
+iter:1375, fx:-2.514709e+03, optnorm:8.130623e-07, totalbt:21, totalinneriter:370, CPU:68.89
+
+   --------- #14/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.554099e+02
+
+   --------- #15/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.522346e+02
+iter:3581, f:-2.370585e+03, optnorm:4.044778e-08,totalbt:20, CPU:37.61
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 98     -2.37047e+03    48.12     0.4659          1.5930e-08  30270 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 49     -2.36951e+03    28.88     0.4669            2.895e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 43     -2.36951e+03    29.39     0.4670            8.260e-09    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.36027e+03    768.45     0.47            5.033e-05 
+iter:0, f:8.522346e+02
+iter:1320, fx:-2.368993e+03, optnorm:1.279250e-06, totalbt:20, totalinneriter:566, CPU:77.22
+
+   --------- #16/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.578600e+02
+iter:1071, f:-2.635789e+03, optnorm:4.589429e-08,totalbt:30, CPU:32.07
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 81     -2.63732e+03    45.88     0.7147          9.6147e-10  28034 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 52     -2.63549e+03    35.44     0.7142            1.743e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 33     -2.63549e+03    21.15     0.7142            1.770e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.63590e+03    767.65     0.71            2.450e-07 
+iter:0, f:8.578600e+02
+iter:1202, fx:-2.635941e+03, optnorm:4.830866e-06, totalbt:14, totalinneriter:528, CPU:118.48
+
+   --------- #17/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.568588e+02
+iter:7586, f:-2.603734e+03, optnorm:4.997577e-08,totalbt:1866, CPU:103.04
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 39     -2.61121e+03    22.11     0.7125          2.9789e-09  15547 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 40     -2.61187e+03    23.12     0.7153            1.907e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 41     -2.61187e+03    24.89     0.7153            2.438e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.60322e+03    765.42     0.71            6.949e-07 
+iter:0, f:8.568588e+02
+iter:1647, fx:-2.604588e+03, optnorm:5.970616e-06, totalbt:20, totalinneriter:432, CPU:73.09
+
+   --------- #18/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.558844e+02
+iter:1856, f:-2.424311e+03, optnorm:4.901007e-08,totalbt:30, CPU:33.93
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 73     -2.42492e+03    40.39     0.5673          2.6262e-08  26877 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 46     -2.42476e+03    34.78     0.5667            2.080e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 39     -2.42476e+03    33.30     0.5667            1.477e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.42380e+03    765.32     0.56            3.001e-05 
+iter:0, f:8.558844e+02
+iter:3044, fx:-2.424259e+03, optnorm:4.877109e-06, totalbt:18, totalinneriter:478, CPU:66.70
+
+   --------- #19/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.554875e+02
+iter:2981, f:-2.416022e+03, optnorm:4.881740e-08,totalbt:66, CPU:33.85
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 76     -2.41735e+03    39.11     0.5292          1.2494e-08  26412 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 41     -2.41347e+03    33.86     0.5225            3.191e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 36     -2.41347e+03    32.17     0.5225            9.514e-09    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.41359e+03    766.14     0.53            2.334e-05 
+iter:0, f:8.554875e+02
+iter:3902, fx:-2.416388e+03, optnorm:2.020627e-06, totalbt:23, totalinneriter:441, CPU:61.92
+
+   --------- #20/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.589685e+02
+iter:2761, f:-2.512764e+03, optnorm:4.870737e-08,totalbt:14, CPU:42.77
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 103     -2.51367e+03    64.20     0.5515          2.4114e-09  41171 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 137     -2.50655e+03    120.11     0.5526            8.524e-09    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 114     -2.50655e+03    94.20     0.5527            1.877e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.51141e+03    770.98     0.55            1.220e-05 
+iter:0, f:8.589685e+02
+iter:3062, fx:-2.513518e+03, optnorm:7.470555e-06, totalbt:20, totalinneriter:690, CPU:64.18
+
+   --------- #21/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.561534e+02
+iter:1566, f:-2.435919e+03, optnorm:4.707208e-08,totalbt:33, CPU:32.96
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 152     -2.43705e+03    90.25     0.5956          2.3977e-08  66688 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 153     -2.43641e+03    197.34     0.5949            2.617e-09    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 40     -2.43641e+03    27.69     0.5949            4.046e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.43553e+03    774.84     0.59            1.863e-05 
+iter:0, f:8.561534e+02
+iter:1246, fx:-2.436377e+03, optnorm:1.326859e-07, totalbt:15, totalinneriter:420, CPU:80.48
+
+   --------- #22/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.503232e+02
+iter:2091, f:-2.404069e+03, optnorm:4.977816e-08,totalbt:20, CPU:34.41
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 84     -2.40427e+03    45.81     0.5037          1.3745e-08  30461 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 68     -2.40362e+03    63.78     0.5031            2.144e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 36     -2.40362e+03    57.30     0.5031            3.842e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.39948e+03    901.49     0.50            1.047e-04 
+iter:0, f:8.503232e+02
+iter:1869, fx:-2.403663e+03, optnorm:2.890589e-06, totalbt:21, totalinneriter:586, CPU:46.65
+
+   --------- #23/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.534952e+02
+iter:2291, f:-2.533749e+03, optnorm:4.985586e-08,totalbt:52, CPU:44.25
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 66     -2.54304e+03    33.07     0.6331          1.0680e-09  24232 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 53     -2.53480e+03    35.24     0.6324            1.547e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 49     -2.53480e+03    38.94     0.6324            2.576e-09    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.53466e+03    857.05     0.63            1.922e-05 
+iter:0, f:8.534952e+02
+iter:1821, fx:-2.541510e+03, optnorm:6.736119e-06, totalbt:15, totalinneriter:779, CPU:76.21
+
+   --------- #24/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.552233e+02
+iter:1652, f:-2.439605e+03, optnorm:4.899175e-08,totalbt:50, CPU:37.86
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 70     -2.43986e+03    36.67     0.5770          1.2098e-08  27148 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 135     -2.43955e+03    147.42     0.5761            1.789e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 108     -2.43955e+03    96.10     0.5761            1.629e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.43735e+03    860.92     0.57            5.572e-05 
+iter:0, f:8.552233e+02
+iter:1708, fx:-2.439588e+03, optnorm:5.648432e-06, totalbt:19, totalinneriter:498, CPU:56.48
+
+   --------- #25/25, n = 3000, r = 20, mu = 1.00 ---------
+iter:0, f:8.561342e+02
+iter:11047, f:-2.412107e+03, optnorm:4.999732e-08,totalbt:2666, CPU:114.67
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 108     -2.41222e+03    58.97     0.5491          3.4952e-08  43474 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 104     -2.41213e+03    123.35     0.5480            2.571e-08    
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm 
+ 110     -2.41213e+03    126.82     0.5480            1.748e-08    
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     -2.40762e+03    859.27     0.54            3.952e-05 
+iter:0, f:8.561342e+02
+iter:3034, fx:-2.412130e+03, optnorm:1.400491e-05, totalbt:17, totalinneriter:560, CPU:48.60
+=========== Summary: n = 3000, r = 20, mu = 1.000 ==========
+ALMTR:    time = 54.805s,  sparsity = 63.03,  loss = -2518.69
+LS-I:    time = 67.213s,  sparsity = 63.01,  loss = -2517.06
+LS-II:   time = 47.127s,  sparsity = 63.02,  loss = -2517.06
+SOC:   time = 768.176s,  sparsity = 62.96,  loss = -2515.30
+AManPG:   time = 42.090s,  sparsity = 63.09,  loss = -2516.72
+ARPG:   time = 79.316s,  sparsity = 63.07,  loss = -2516.77
+
+
+

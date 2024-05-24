@@ -1,0 +1,427 @@
+
+   --------- #1/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.211608e+04
+iter:3401, f:2.973529e+01, optnorm:4.415642e-05,totalbt:13, CPU:33.16
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 31     2.97351e+01    19.04     0.8150          1.5125e-05  27836 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 56     2.97350e+01    24.68     0.8186            1.809e-07      363.96        0.78         4.89    0.00   0.00    303.60    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 57     2.97350e+01    25.87     0.8186            1.855e-07      359.41        0.82         5.91    0.00   0.00    338.85    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     2.98472e+01    41.31     0.83            3   0.65                1.295e-03        17908 
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 28814     2.97369e+01    47.24     0.83            1.346e-04 
+iter:0, f:3.211608e+04
+iter:3239, fx:2.973527e+01, optnorm:4.866015e-05, totalbt:15, totalinneriter:142, CPU:45.37
+
+   --------- #2/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.201406e+04
+iter:3176, f:2.973521e+01, optnorm:4.915390e-05,totalbt:10, CPU:30.83
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 32     2.97350e+01    17.68     0.8151          1.3339e-05  25338 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 56     2.97350e+01    26.18     0.8185            1.878e-07      388.22        0.69         4.21    0.00   0.00    289.23    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 57     2.97350e+01    26.78     0.8185            1.875e-07      379.43        0.71         4.88    0.00   0.00    319.83    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     2.97643e+01    42.04     0.82            3   0.64                1.235e-03        18290 
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     2.97379e+01    49.99     0.83            1.333e-04 
+iter:0, f:3.201406e+04
+iter:2958, fx:2.973540e+01, optnorm:4.873038e-05, totalbt:22, totalinneriter:169, CPU:32.80
+
+   --------- #3/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.195089e+04
+iter:3501, f:2.973525e+01, optnorm:4.462204e-05,totalbt:11, CPU:37.62
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 37     2.97352e+01    20.24     0.8153          2.0209e-05  28614 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 56     2.97350e+01    24.50     0.8191            4.713e-07      343.11        0.85         5.01    0.00   0.00    265.32    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 56     2.97350e+01    24.69     0.8192            1.608e-07      342.13        0.82         5.26    0.00   0.00    304.85    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     2.97752e+01    43.49     0.83            3   0.67                1.052e-03        18666 
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 13979     2.97355e+01    23.05     0.83            1.205e-04 
+iter:0, f:3.195089e+04
+iter:3219, fx:2.973511e+01, optnorm:4.665686e-05, totalbt:13, totalinneriter:260, CPU:45.86
+
+   --------- #4/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.211832e+04
+iter:4026, f:2.973521e+01, optnorm:4.995630e-05,totalbt:14, CPU:46.31
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 36     2.97350e+01    20.96     0.8149          3.2302e-05  29312 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 56     2.97350e+01    24.06     0.8192            7.534e-07      363.95        0.67         3.30    0.00   0.00    258.42    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 57     2.97350e+01    25.17     0.8192            2.800e-07      356.11        0.80         4.41    0.00   0.00    253.85    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     2.99418e+01    41.97     0.84            3   0.64                3.069e-03        17828 
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     2.97371e+01    50.40     0.83            1.314e-04 
+iter:0, f:3.211832e+04
+iter:3648, fx:2.973520e+01, optnorm:4.780183e-05, totalbt:11, totalinneriter:231, CPU:55.26
+
+   --------- #5/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.203778e+04
+iter:4181, f:2.973513e+01, optnorm:4.875742e-05,totalbt:12, CPU:69.92
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 35     2.97351e+01    17.96     0.8150          8.1419e-06  24967 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 62     2.97351e+01    46.05     0.8189            8.232e-07      495.03        1.41         14.53    0.00   0.00    313.00    0.30    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 62     2.97350e+01    29.52     0.8184            9.523e-06      337.59        0.93         7.87    0.00   0.00    332.17    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     2.97805e+01    40.69     0.83            3   0.57                1.143e-03        18039 
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 23615     2.97367e+01    39.40     0.83            1.310e-04 
+iter:0, f:3.203778e+04
+iter:3499, fx:2.973532e+01, optnorm:4.725776e-05, totalbt:15, totalinneriter:131, CPU:54.71
+
+   --------- #6/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.190433e+04
+iter:4091, f:2.973518e+01, optnorm:4.728695e-05,totalbt:9, CPU:56.75
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 34     2.97350e+01    19.41     0.8150          1.8877e-05  27110 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 57     2.97350e+01    26.48     0.8189            2.467e-06      357.32        0.80         5.40    0.00   0.00    300.96    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 58     2.97350e+01    30.15     0.8189            2.438e-07      351.58        1.04         9.17    0.00   0.00    347.64    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     3.01475e+01    41.23     0.84            3   0.63                2.722e-03        17827 
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     2.97469e+01    50.42     0.83            1.321e-04 
+iter:0, f:3.190433e+04
+iter:3578, fx:2.973518e+01, optnorm:4.920407e-05, totalbt:9, totalinneriter:278, CPU:41.79
+
+   --------- #7/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.229277e+04
+iter:4336, f:2.973507e+01, optnorm:4.717649e-05,totalbt:11, CPU:50.74
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 31     2.97350e+01    19.12     0.8149          2.1697e-05  26726 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 57     2.97351e+01    25.98     0.8189            7.077e-07      357.23        0.82         5.04    0.00   0.00    278.96    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 58     2.97351e+01    26.69     0.8189            2.821e-07      352.67        0.86         5.65    0.00   0.00    291.21    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     3.02079e+01    42.72     0.84            3   0.67                2.824e-03        17712 
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     2.97457e+01    50.45     0.83            1.297e-04 
+iter:0, f:3.229277e+04
+iter:4083, fx:2.973506e+01, optnorm:4.796980e-05, totalbt:15, totalinneriter:134, CPU:50.23
+
+   --------- #8/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.201014e+04
+iter:2901, f:2.973553e+01, optnorm:4.951816e-05,totalbt:9, CPU:24.63
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 36     2.97351e+01    22.61     0.8151          1.0189e-05  31536 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 55     2.97350e+01    24.72     0.8188            3.452e-07      358.13        0.76         4.47    0.00   0.00    292.17    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 55     2.97350e+01    28.74     0.8187            1.005e-06      362.02        1.02         8.33    0.00   0.00    335.92    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     2.99225e+01    41.57     0.84            3   0.61                3.053e-03        18849 
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     2.97382e+01    50.23     0.83            1.326e-04 
+iter:0, f:3.201014e+04
+iter:4138, fx:2.973512e+01, optnorm:4.890555e-05, totalbt:15, totalinneriter:244, CPU:76.26
+
+   --------- #9/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.209099e+04
+iter:3841, f:2.973517e+01, optnorm:4.897354e-05,totalbt:6, CPU:41.21
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 39     2.97353e+01    23.30     0.8153          2.4804e-05  32457 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 63     2.97350e+01    45.40     0.8193            6.758e-07      422.66        1.44         18.07    0.00   0.00    387.01    0.30    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 58     2.97350e+01    27.55     0.8191            2.463e-07      351.47        0.88         6.60    0.00   0.00    327.37    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     2.98943e+01    41.52     0.84            3   0.63                1.264e-03        17822 
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 29850     2.97369e+01    50.13     0.83            1.276e-04 
+iter:0, f:3.209099e+04
+iter:3538, fx:2.973517e+01, optnorm:4.668454e-05, totalbt:17, totalinneriter:212, CPU:39.76
+
+   --------- #10/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.202035e+04
+iter:5041, f:2.973520e+01, optnorm:4.979523e-05,totalbt:7, CPU:65.32
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 33     2.97350e+01    20.84     0.8151          8.2505e-06  29124 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 53     2.97351e+01    23.58     0.8177            1.561e-07      359.35        0.73         3.95    0.00   0.00    276.71    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 55     2.97351e+01    24.87     0.8177            2.324e-07      344.63        0.85         5.32    0.00   0.00    292.04    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     2.99175e+01    43.82     0.83            3   0.69                1.814e-03        19703 
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 29371     2.97371e+01    49.11     0.83            1.327e-04 
+iter:0, f:3.202035e+04
+iter:4488, fx:2.973513e+01, optnorm:4.855461e-05, totalbt:14, totalinneriter:161, CPU:83.45
+
+   --------- #11/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.172208e+04
+iter:3811, f:2.973531e+01, optnorm:4.121002e-05,totalbt:15, CPU:40.79
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 37     2.97352e+01    21.91     0.8153          7.8146e-06  30551 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 61     2.97350e+01    44.95     0.8189            2.888e-07      471.15        1.50         15.39    0.00   0.00    315.86    0.29    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 62     2.97350e+01    27.99     0.8189            2.779e-07      310.64        0.98         7.90    0.00   0.00    348.12    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     2.97836e+01    41.43     0.83            3   0.63                7.914e-04        17888 
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 14697     2.97362e+01    24.21     0.83            1.191e-04 
+iter:0, f:3.172208e+04
+iter:3871, fx:2.973527e+01, optnorm:4.993803e-05, totalbt:13, totalinneriter:184, CPU:43.41
+
+   --------- #12/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.191751e+04
+iter:3416, f:2.973528e+01, optnorm:4.781865e-05,totalbt:9, CPU:28.66
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 26     2.97350e+01    15.87     0.8151          3.2610e-06  22121 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 57     2.97351e+01    25.31     0.8182            2.256e-07      368.07        0.68         3.74    0.00   0.00    280.45    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 58     2.97350e+01    25.76     0.8181            7.093e-06      361.58        0.72         4.19    0.00   0.00    283.23    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     2.97708e+01    40.59     0.82            5   0.58                5.036e-04        18464 
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 29879     2.97368e+01    50.09     0.83            1.384e-04 
+iter:0, f:3.191751e+04
+iter:3108, fx:2.973528e+01, optnorm:4.845964e-05, totalbt:17, totalinneriter:165, CPU:35.07
+
+   --------- #13/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.210488e+04
+iter:3661, f:2.973520e+01, optnorm:4.650837e-05,totalbt:10, CPU:47.80
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 38     2.97351e+01    20.96     0.8152          2.0548e-06  29051 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 59     2.97350e+01    28.37     0.8179            6.293e-07      371.50        0.84         5.93    0.00   0.00    315.14    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 58     2.97350e+01    26.82     0.8179            7.554e-06      336.47        0.89         6.53    0.00   0.00    309.94    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     2.98105e+01    42.60     0.83            3   0.66                1.126e-03        18118 
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     2.97366e+01    49.88     0.83            1.371e-04 
+iter:0, f:3.210488e+04
+iter:2650, fx:2.973540e+01, optnorm:4.815855e-05, totalbt:12, totalinneriter:170, CPU:32.52
+
+   --------- #14/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.213409e+04
+iter:4051, f:2.973520e+01, optnorm:4.716702e-05,totalbt:10, CPU:35.93
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 35     2.97350e+01    21.98     0.8151          1.4234e-05  30822 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 55     2.97350e+01    24.61     0.8193            1.911e-06      363.70        0.76         4.14    0.00   0.00    255.12    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 57     2.97350e+01    25.37     0.8193            3.544e-07      349.23        0.89         5.08    0.00   0.00    242.68    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     3.03483e+01    41.55     0.84            3   0.63                1.763e-03        17904 
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     2.97474e+01    49.81     0.83            1.271e-04 
+iter:0, f:3.213409e+04
+iter:3689, fx:2.973520e+01, optnorm:4.716252e-05, totalbt:13, totalinneriter:128, CPU:42.41
+
+   --------- #15/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.234433e+04
+iter:4141, f:2.973520e+01, optnorm:4.885213e-05,totalbt:9, CPU:59.20
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 34     2.97350e+01    20.11     0.8152          1.9144e-06  28103 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 58     2.97351e+01    33.39     0.8190            2.493e-06      385.39        1.44         10.57    0.00   0.00    241.12    0.34    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 59     2.97352e+01    29.16     0.8192            1.631e-06      383.93        0.91         6.01    0.00   0.00    255.09    0.17    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     3.01396e+01    42.21     0.85            3   0.66                2.245e-03        17856 
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     2.97366e+01    49.99     0.83            1.341e-04 
+iter:0, f:3.234433e+04
+iter:3823, fx:2.973520e+01, optnorm:4.893154e-05, totalbt:13, totalinneriter:175, CPU:51.63
+
+   --------- #16/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.205634e+04
+iter:4191, f:2.973506e+01, optnorm:4.851541e-05,totalbt:11, CPU:46.72
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 32     2.97350e+01    20.41     0.8152          9.8699e-06  28687 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 56     2.97350e+01    25.88     0.8190            1.430e-05      361.27        0.85         5.28    0.00   0.00    281.36    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 56     2.97350e+01    27.39     0.8190            7.417e-06      361.60        0.93         6.69    0.00   0.00    309.31    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     3.00977e+01    43.30     0.85            3   0.71                2.268e-03        17896 
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     2.97388e+01    49.99     0.83            1.360e-04 
+iter:0, f:3.205634e+04
+iter:3524, fx:2.973510e+01, optnorm:4.618581e-05, totalbt:9, totalinneriter:140, CPU:45.83
+
+   --------- #17/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.220022e+04
+iter:4716, f:2.973519e+01, optnorm:4.916683e-05,totalbt:11, CPU:61.65
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 33     2.97350e+01    21.36     0.8154          5.9921e-06  30153 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 59     2.97350e+01    38.39     0.8194            6.920e-07      443.19        1.40         11.86    0.00   0.00    270.95    0.32    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 57     2.97350e+01    24.80     0.8194            2.611e-07      327.98        0.93         5.63    0.00   0.00    261.34    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     3.02376e+01    42.76     0.85            3   0.68                1.509e-03        17116 
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     2.97414e+01    50.03     0.83            1.264e-04 
+iter:0, f:3.220022e+04
+iter:3893, fx:2.973521e+01, optnorm:4.986904e-05, totalbt:14, totalinneriter:168, CPU:61.53
+
+   --------- #18/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.192108e+04
+iter:4346, f:2.973511e+01, optnorm:4.634336e-05,totalbt:10, CPU:63.95
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 29     2.97350e+01    17.15     0.8151          1.5509e-05  24208 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 61     2.97351e+01    29.12     0.8188            4.838e-07      334.67        1.03         8.20    0.00   0.00    313.38    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 59     2.97351e+01    29.02     0.8188            3.658e-06      344.83        1.05         8.27    0.00   0.00    309.55    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     3.02066e+01    42.34     0.86            3   0.65                2.864e-03        17705 
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     2.97458e+01    49.89     0.83            1.251e-04 
+iter:0, f:3.192108e+04
+iter:3578, fx:2.973511e+01, optnorm:4.595396e-05, totalbt:12, totalinneriter:229, CPU:52.97
+
+   --------- #19/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.239025e+04
+iter:3911, f:2.973511e+01, optnorm:4.784361e-05,totalbt:9, CPU:48.28
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 34     2.97352e+01    19.76     0.8154          7.4115e-06  27802 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 56     2.97351e+01    24.01     0.8186            5.440e-07      351.27        0.75         4.08    0.00   0.00    276.00    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 56     2.97351e+01    25.27     0.8186            1.926e-07      349.75        0.80         5.39    0.00   0.00    323.64    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     3.01579e+01    40.58     0.85            3   0.59                1.623e-03        18751 
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     2.97440e+01    50.00     0.83            1.278e-04 
+iter:0, f:3.239025e+04
+iter:3777, fx:2.973510e+01, optnorm:4.885652e-05, totalbt:19, totalinneriter:178, CPU:50.63
+
+   --------- #20/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.188992e+04
+iter:3371, f:2.973511e+01, optnorm:4.281651e-05,totalbt:12, CPU:33.60
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 31     2.97350e+01    19.97     0.8150          1.1485e-05  28255 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 56     2.97350e+01    25.59     0.8181            1.668e-07      365.55        0.76         4.68    0.00   0.00    290.25    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 56     2.97350e+01    28.06     0.8181            1.745e-07      368.78        0.89         6.92    0.00   0.00    333.45    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     2.99153e+01    42.66     0.84            3   0.66                1.138e-03        18124 
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     2.97483e+01    49.94     0.83            1.269e-04 
+iter:0, f:3.188992e+04
+iter:3458, fx:2.973511e+01, optnorm:4.681819e-05, totalbt:13, totalinneriter:177, CPU:48.59
+
+   --------- #21/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.184950e+04
+iter:3761, f:2.973512e+01, optnorm:4.811805e-05,totalbt:15, CPU:50.85
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 36     2.97352e+01    21.44     0.8153          2.1431e-05  29947 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 62     2.97350e+01    43.10     0.8186            4.717e-07      458.20        1.31         14.34    0.00   0.00    343.87    0.32    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 57     2.97350e+01    26.01     0.8186            2.972e-07      328.68        0.95         6.82    0.00   0.00    293.60    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     2.98609e+01    40.97     0.83            3   0.59                1.251e-03        17796 
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     2.97374e+01    49.81     0.83            1.288e-04 
+iter:0, f:3.184950e+04
+iter:3463, fx:2.973512e+01, optnorm:4.798910e-05, totalbt:15, totalinneriter:135, CPU:46.69
+
+   --------- #22/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.208696e+04
+iter:3876, f:2.973511e+01, optnorm:4.937897e-05,totalbt:13, CPU:54.06
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 35     2.97352e+01    18.14     0.8154          1.8632e-05  25505 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 55     2.97350e+01    23.95     0.8185            6.174e-07      360.22        0.74         3.71    0.00   0.00    239.00    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 55     2.97350e+01    24.48     0.8185            4.109e-06      361.31        0.85         4.36    0.00   0.00    223.62    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     3.00924e+01    42.37     0.85            3   0.65                1.534e-03        17987 
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 27366     2.97373e+01    45.75     0.83            1.271e-04 
+iter:0, f:3.208696e+04
+iter:3719, fx:2.973505e+01, optnorm:4.525001e-05, totalbt:11, totalinneriter:227, CPU:60.22
+
+   --------- #23/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.188534e+04
+iter:4166, f:2.973505e+01, optnorm:4.937220e-05,totalbt:10, CPU:57.06
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 34     2.97351e+01    18.91     0.8155          8.4385e-06  26700 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 57     2.97350e+01    26.27     0.8192            5.662e-07      361.36        0.80         5.38    0.00   0.00    310.73    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 57     2.97350e+01    27.12     0.8193            1.298e-06      358.73        0.82         6.19    0.00   0.00    330.71    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     3.01865e+01    41.88     0.86            3   0.64                1.898e-03        17778 
+SOC fails to converge  
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 30000     2.97439e+01    50.15     0.83            1.268e-04 
+iter:0, f:3.188534e+04
+iter:3618, fx:2.973505e+01, optnorm:4.986084e-05, totalbt:13, totalinneriter:174, CPU:60.70
+
+   --------- #24/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.177963e+04
+iter:2631, f:2.973558e+01, optnorm:4.986287e-05,totalbt:5, CPU:21.57
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 32     2.97350e+01    18.10     0.8152          4.6885e-05  25561 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 56     2.97351e+01    25.58     0.8194            1.821e-07      376.25        0.71         4.17    0.00   0.00    287.14    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 58     2.97350e+01    27.71     0.8192            2.561e-07      364.70        0.89         6.14    0.00   0.00    288.50    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     2.97719e+01    42.02     0.82            3   0.63                9.948e-04        18071 
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 15482     2.97368e+01    25.45     0.83            1.163e-04 
+iter:0, f:3.177963e+04
+iter:2365, fx:2.973558e+01, optnorm:4.855363e-05, totalbt:13, totalinneriter:162, CPU:28.81
+
+   --------- #25/25, n = 2000, r = 20, mu = 0.10 ---------
+iter:0, f:3.216446e+04
+iter:4376, f:2.973518e+01, optnorm:4.626438e-05,totalbt:9, CPU:70.76
+ALMTR:Iter ***  Fval *** CPU  **** sparsity *** opt_norm *** tcg_count
+ 35     2.97352e+01    22.07     0.8154          2.0868e-05  31120 
+LSq-I:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 57     2.97351e+01    26.24     0.8183            7.790e-07      387.11        0.68         3.85    0.00   0.00    260.36    0.00    Inf
+LSq-II:Iter ***  Fval *** CPU  **** sparsity *** opt_norm  **** FI **** SI  **** ST *** TryFI *** TryFT *** CGI *** CGRst *** EigenMin
+ 58     2.97351e+01    26.65     0.8183            3.726e-07      379.68        0.74         4.31    0.00   0.00    259.08    0.00    Inf
+ManPG_adap:Iter ***  Fval *** CPU  **** sparsity ***inner_inexact&averge_No. ** opt_norm ** total_linsea 
+ 30000     2.98265e+01    42.91     0.83            3   0.69                1.823e-03        18134 
+Soc:Iter ***  Fval *** CPU  **** sparsity ********* err 
+ 18732     2.97363e+01    30.85     0.83            1.223e-04 
+iter:0, f:3.216446e+04
+iter:4088, fx:2.973518e+01, optnorm:4.751927e-05, totalbt:13, totalinneriter:233, CPU:68.06
+=========== Summary: n = 2000, r = 20, mu = 0.100 ==========
+ALMTR:    time = 20.033s,  sparsity = 81.51,  loss = 29.74
+LS-I:    time = 29.562s,  sparsity = 81.88,  loss = 29.74
+LS-II:   time = 26.984s,  sparsity = 81.87,  loss = 29.74
+MIALM:   time = 73.642s,  sparsity = 81.91,  loss = 29.74
+ManPG:   time = 42.020s,  sparsity = 83.85,  loss = 29.98
+SOC:   time = 46.712s,  sparsity = 83.09,  loss = 29.74
+AManPG:   time = 46.154s,  sparsity = 81.43,  loss = 29.74
+ARPG:   time = 49.504s,  sparsity = 81.42,  loss = 29.74
+
+
+
